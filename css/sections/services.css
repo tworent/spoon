@@ -1,0 +1,40 @@
+.services {
+    margin-top: 135px;
+}
+
+.services__info {
+    max-width: 507px;
+}
+
+
+.services__list {
+    margin-top: 54px;
+    display: flex;
+    gap: 19px;
+}
+
+.services__item {
+    padding: 51px 64px 25px 41px;
+    border: 1px solid #f7f7f7;
+    box-shadow: 0px 5px 20px rgb(0, 0, 0, 0.05);
+}
+
+.services__icon {}
+
+.services__title {
+    margin-top: 25px;
+    font-family: var(--fontLF);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #000;
+}
+
+.services__text {
+    margin-top: 13px;
+    font-family: var(--fontIMB);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #999;
+}
